@@ -1,0 +1,4 @@
+#QLTK licenses v1
+issued=2026-10-06T01:16:26Z
+X4W7-YDGS-PAK8-T8A7|*
+sig=r7bPXmk18IqTlx9TpwR5FLT2faMRKGIn1/1kRAWPjesow8Pvx7KSll2r+nSMKCr39Df12cYIvodFxr4iXGX+/w==
